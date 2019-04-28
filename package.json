@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  },
+  "name": "cypress.io",
+  "description": "npm install --save-dev cypress // https://docs.cypress.io/guides/guides/command-line.html#How-to-run-commands sudo apt-get install libcanberra-gtk-module",
+  "version": "1.0.0",
+  "main": "Readme.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
